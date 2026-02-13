@@ -36,14 +36,8 @@ Usage notes
 Results and reproducibility
 - The notebooks include training and evaluation code; reproduce results by following the cell order and ensuring identical data inputs and random seeds (where specified).
 
-Adding files to the repo
-- To add a license, `.gitignore`, or CI, create the file in the repository root and commit; example `.gitignore` for Python projects typically includes `__pycache__/`, `.ipynb_checkpoints/`, and virtual environment folders.
 
-Contact
-- For questions about the code or data usage, open an issue in the repository or contact the maintainer.
 
-License
-- No license is included by default. Add a `LICENSE` file if you want to make the code publicly reusable (e.g., MIT License).
 
 
 
