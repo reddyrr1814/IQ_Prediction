@@ -16,8 +16,8 @@ Getting started
  3. `hcp_hybrid.ipynb` — run generalizability experiments using HCP or alternative data.
 
 Data
--The ABIDE dataset is publicly available at https://fcon_1000.projects.nitrc.org/indi/abide/.
--The HCP dataset is publicly available at BALSA.
+- The ABIDE dataset is publicly available at https://fcon_1000.projects.nitrc.org/indi/abide/.
+- The HCP dataset is publicly available at BALSA.
 
 Dependencies
 - Python 3.8+ recommended.
@@ -44,6 +44,7 @@ Contact
 
 License
 - No license is included by default. Add a `LICENSE` file if you want to make the code publicly reusable (e.g., MIT License).
+
 
 
 
